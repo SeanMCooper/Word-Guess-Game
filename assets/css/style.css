@@ -1,0 +1,68 @@
+h1 {
+    display: block; margin: auto; 
+    background-color: black; color: blueviolet; 
+    font-size: 44px; text-align: center;
+}
+
+#leftSpace  { 
+    width: 30%; float: left; height: 80%; 
+    display: block; background-color: blueviolet;
+    margin: auto;
+}
+
+#rightSpace {
+    width: 30%; float: right; height: 80%; 
+    display: block; background-color: blueviolet;
+    margin:auto; border
+} 
+
+body {
+    background-color: darkolivegreen;
+}
+
+.mainContent {
+    width: 100%;
+    height: 100%;
+}
+.interface {
+    border: black, 10px;
+}
+
+.row {
+    width: 100%;
+}
+
+
+#sec1 {
+    width: 40%; margin: 20px; border: 5px, darkgray;
+    background-color: gray; font-size: 24px; padding: 10px;
+
+}
+
+#sec2 {
+    width: 40%; margin: 20px; border: 5px, darkgray;
+    background-color: gray; font-size: 24px; padding: 10px;
+    
+}
+
+#sec3 {
+    width: 27%; margin: 20px; border: 5px, darkgray;
+    background-color: gray; font-size: 24px; padding: 10px;
+   
+
+}
+
+#sec4 {
+    width: 27%; margin: 20px; border: 5px, darkgray;
+    background-color: gray; font-size: 24px; padding: 10px;
+   
+
+}
+
+#sec5 {
+    width: 27%; margin: 20px; border: 5px, darkgray;
+    background-color: gray; font-size: 24px; padding: 10px;
+ 
+
+}
+
